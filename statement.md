@@ -16,14 +16,14 @@ Having acknowledged that the U.S.-DPRK summit—the first is history—was an ep
 
 President Donald J. Trump of the United States and Chairman Kim Jong Un of the States Affairs Commission of the Democratic People's Republic of Korea have committed to cooperate for the development of new U.S.-DPRK relations and for the promotion of peace, prosperity, and security of the Korean Peninsula and of the world.
 
-`<Signature>
+&lt;Signature&rt;
 DONALD J. Trump
 President of the United States of America
 
-<Signature>
+&lt;Signature&rt;
 Kim Jong Un
 Chairman of the State Affairs Commission of the Democratic People's Republic of Korea
 
 June 12, 2018
 Sentosa Island
-Singapore`
+Singapore
